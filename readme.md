@@ -4,7 +4,7 @@ Mobile friendly page with API picture feed from Mars. Originally done as an ASP 
 
 ## 1. Background
 
-Created during spring term of 2021 as course assignment. Part of higher vocational education: Webbutvecklare .NET (Web Developer .NET), 2020-2022, Jönköping University, Sweden. 
+Built during spring term of 2021 as course assignment. Part of higher vocational education: Webbutvecklare .NET (Web Developer .NET), 2020-2022, Jönköping University, Sweden. 
 Name of course: Dynamiska Webbapplikationer 2 (Dynamic Web Applications 2).
 
 ## 2. Technologies/techniques used

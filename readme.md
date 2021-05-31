@@ -1,4 +1,4 @@
-# Axels Marssida
+# Axels Marssida (Axel's Mars Page)
 
 Mobile friendly page with API picture feed from Mars. Originally done as an ASP .NET Core API project.
 

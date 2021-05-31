@@ -20,4 +20,4 @@ Constructing a basic web API in ASP.NET Core and connecting it to a frontend.
 
 ## 4. How to use
 
-Run the app on GitHub Pages at: (address)
+Run the app on GitHub Pages at https://axelsvahn.github.io/mars-app/
